@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sphildreth
 - 👀 I’m interested in computers, music, 3d printing and watches.
-- 🌱 I’m currently learning Go, Svelte and FastApi.
 - 💞️ I’m looking to collaborate on anything music related.
 - 📫 Contact info on my blog https://www.sphildreth.com
 
